@@ -1,0 +1,15 @@
+.splitcta_container{
+	background:#AFAFAF;
+	padding:15px;
+}
+
+.splitcta_container .splitcta_content, .splitcta_container .splitcta_buttons{
+	text-align:center;
+}
+
+.splitcta_container .splitcta_buttons .splitcta_btn{
+	display:inline-block;
+	padding:20px;
+	border:#FFF solid thin;
+	text-decoration:none;
+}
